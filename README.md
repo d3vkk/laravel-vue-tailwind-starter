@@ -4,12 +4,12 @@
 
 Laravel 7 + Vue.js + Tailwind CSS Starter. With zero bloat dependencies
 
-What is [Laravel,](https://laravel.com/) [Vue.js](https://vuejs/) or [Tailwind CSS?](https://tailwindcss.com/)
+What is [Laravel,](https://laravel.com/) [Vue.js](https://vuejs.org/) or [Tailwind CSS?](https://tailwindcss.com/)
 
 ## Prerequisites
 
 You should have the following installed
- - [PHP 7.3 or higher](https://php)
+ - [PHP 7.3 or higher](https://php.net/)
  - [Laravel 7](https://laravel.com/)
  - [npm](https://npm.com/) or [yarn](https://yarnpkg.com/)
 
