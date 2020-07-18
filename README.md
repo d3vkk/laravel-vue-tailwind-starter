@@ -2,8 +2,6 @@
 
 ![Laravel + Vue + Tailwind Logo](https://github.com/d3vkk/laravel-vue-tailwind-starter/blob/master/laravel-vue-tailwind-logo.png)
 
-Laravel 7 + Vue.js + Tailwind CSS Starter. With zero bloat dependencies
-
 What is [Laravel,](https://laravel.com/) [Vue.js](https://vuejs.org/) or [Tailwind CSS?](https://tailwindcss.com/)
 
 ## Prerequisites
